@@ -1,11 +1,11 @@
 package main
 
 import (
-	"log"
 	"flag"
 	"github.com/BurntSushi/toml"
+	"log"
 
-	"github.com/mihailchapenko/http-resp-api/internal/app/apiserver"
+	"github.com/mihailchapenko/http-rest-api/internal/app/apiserver"
 )
 
 var (
