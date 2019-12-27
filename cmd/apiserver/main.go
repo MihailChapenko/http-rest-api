@@ -1,9 +1,9 @@
 package main
 
 import (
+	"log"
 	"flag"
 	"github.com/BurntSushi/toml"
-	"log"
 
 	"github.com/mihailchapenko/http-resp-api/internal/app/apiserver"
 )
